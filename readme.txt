@@ -5,4 +5,4 @@ Git tracks changes.
 1
 2
 My stupid boss still prefers SVN.
-123
+Creating a new branch is quick.
